@@ -11,10 +11,28 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 # ABE 516 Project
 **Gabe Johnson**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Introduction to my project...
 
-## Header 2
+"This website demonstrates the use of data science concepts learned in ABE 516 and applied to my PhD disseration research data etc..."
 
+# Research Question
+Insert here
+
+# Data Description
+insert here
+
+# Data wrangling
+
+# Data Exploration
+
+# Models
+
+# Results
+
+# Discussion
+
+
+# Template Code left temporarily for reference
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
