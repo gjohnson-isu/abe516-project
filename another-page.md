@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Another page
-description: This is just another page
+description: Page 2
 ---
 
-## Welcome to another page
+## Page 2 
+
+What should I put here?
 
 _yay_
 
