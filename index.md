@@ -40,7 +40,7 @@ Site-Year Summary Data:
 * Annual summary metrics (total NO3-N load removed, total flow treated, percent NO3-N load reduction, and many others) calculated and organized into one tidy dataframe or csv file
 
 ## Implementation
-
+Flow data wrangling can be seen in [this jupyter notebook](./project-wrangling-1.md).
 
 # Data Exploration
 insert here
