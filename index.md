@@ -47,6 +47,7 @@ Nitrate load and summary data wrangling can be seen in [this jupyter notebook](.
 # Data Exploration
 For intial data exploration, I read in the site-year summary file. This file has data for 35 site years across 6 sites, from 2011-2021 (I did not have time to process all of the 2022 data). I calculated averages across groups of sites and years, as well as mean, median, and standard deviation across all the data. 
 Next, I pulled out a few specific variables to plot with boxplots and scatterplots to explore the descriptive statistics further and look for the relationships I was hypothesizing.
+
 **Boxplot of total NO3-N Load removed organized by site:**
 ![N removed boxplot](./N removed boxplot.png)
 
@@ -65,14 +66,19 @@ Next, I pulled out a few specific variables to plot with boxplots and scatterplo
 So far, this data looks good. It matches the plots I created in Excel, and the scatterplots show the relationships I was expecting.
 
 # Models
+## Linear Regression
+
+## PCA
+
+
+
+# Results and Discussion
 insert here
 
-# Results
-insert here
+# Conclusions and Next Steps
+I completed data wrangling on two major aspects of my saturated buffer site data. From this clean data, I was able to explore the data and relationships between different variables. Finally, I created a linear regression model and ran principle components analysis (PCA) to address my research question. 
 
-# Discussion
-insert here
-
+My next steps include improving my data wrangling pipeline to ensure it is adaptible and reproducible for my other sites, using the data wrangling pipeline to process my additional sites, rebuilding these models with additional data, and building new models to further answer this research question and my other research questions.
 _______________________________________________________
 
 # Template Code left temporarily for reference
