@@ -45,9 +45,24 @@ Nitrate concentration data wrangling can be seen in [this jupyter notebook](./pr
 Nitrate load and summary data wrangling can be seen in [this jupyter notebook](./project-wrangling-3.md)
 
 # Data Exploration
-
+For intial data exploration, I read in the site-year summary file. This file has data for 35 site years across 6 sites, from 2011-2021 (I did not have time to process all of the 2022 data). I calculated averages across groups of sites and years, as well as mean, median, and standard deviation across all the data. 
+Next, I pulled out a few specific variables to plot with boxplots and scatterplots to explore the descriptive statistics further and look for the relationships I was hypothesizing.
+**Boxplot of total NO3-N Load removed organized by site:**
 ![N removed boxplot](./N removed boxplot.png)
 
+**Boxplot of in-buffer removal percentage organized by site:**
+![buffer removal boxplot](./buffer removal boxplot.png)
+
+**Boxplot of edge-of-field removal percentage organized by site:**
+![EOF removal boxplot](./EOF removal boxplot.png)
+
+**Scatterplot of the total nitrate load removed vs. the product of pipe length and drainage area:**
+![pipelength-drainage area vs load](./pipelength_da_loadremoval.png)
+
+**Scatterplot of the edge-of-field removal percentage vs the flow diverted percentage:**
+![EOF removal vs flow percent](./EOF vs flow percent.png)
+
+So far, this data looks good. It matches the plots I created in Excel, and the scatterplots show the relationships I was expecting.
 
 # Models
 insert here
