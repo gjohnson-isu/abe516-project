@@ -42,6 +42,10 @@ Site-Year Summary Data:
 ## Implementation
 Flow data wrangling can be seen in [this jupyter notebook](./project-wrangling-1.md).
 
+Nitrate concentration data wrangling can be seen in [this jupyter notebook](./project-wrangling-2.md)
+
+Nitrate load and summary data wrangling can be seen in [this jupyter notebook](./project-wrangling-3.md)
+
 # Data Exploration
 insert here
 
