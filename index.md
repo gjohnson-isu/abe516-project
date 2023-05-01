@@ -9,20 +9,38 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 # ABE 516 Project
-**Gabe Johnson**
+**Gabe Johnson**, PhD Student in Agricultural and Biosystems Engineering and Sustainable Agriculture
 
-Introduction to my project...
-
-"This website demonstrates the use of data science concepts learned in ABE 516 and applied to my PhD disseration research data etc..."
+This website demonstrates the use of data science concepts learned in ABE 516 applied to my PhD disseration research on saturated buffers. Saturated buffers are an edge-of-field practice for reducing nitrate loss in agricultural subsurface drainage. Current research has shown these practices to be effective at removing nitrate from drainage water, but overall effectiveness is limited by the total amount of flow treated. My larger research project is focused on optimization of these practices for nitrate load reduction, analyzing the effectiveness over a longer period (5+ years), and using empirical data to predict future performance at existing or new sites.
 
 # Research Question
-Insert here
+The specific research question for this course project is:
+
+**Can saturated buffer nitrate load reduction be predicted from design parameters?**
 
 # Data Description
-insert here
+Data for this project consists of saturated buffer flow data (flow in, flow treated, flow bypassed), nitrate concentration data from inlet and outlet points (the saturated buffer control structure and various groundwater monitoring wells), and nitrate load data. Nitrate load (mass) is calculated from flow (volume) and concentration data (mass per volume) for annual sampling dates. 
 
 # Data wrangling
-insert here
+## Description
+Data wrangling consists of processing flow and nitrate concentration data into clean, quality-controlled files, calculating nitrate load, and summarizing data for individual site-years and across site-years. 
+
+Flow:
+* hourly flowrates (in, bypass, treated) calculated from monitored water levels and processed for missing or extreme data
+* cumulative flow volumes calculated 
+
+Nitrate Concentration:
+* raw concentration data files processed to extract sampling dates and concentration values for sample locations
+* creation of clean dataframe or csv file of concentration summarized by sample data and inlet and outlet concentrations
+
+NO3-N Load:
+* incremental and cumulative loads (in, diverted, treated) calculated from cumulative flows and clean nitrate concentration data
+
+Site-Year Summary Data:
+* Annual summary metrics (total NO3-N load removed, total flow treated, percent NO3-N load reduction, and many others) calculated and organized into one tidy dataframe or csv file
+
+## Implementation
+
 
 # Data Exploration
 insert here
