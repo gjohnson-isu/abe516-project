@@ -89,6 +89,9 @@ I ran PCA on the numerical site summary data excluding the nitrate load removed.
 ## Clustering
 I used K-means cluster analysis as an unsupervised method to look for groups in the data. I obviously am aware of certain groups in the data (sites, years, sites with similar design parameters, etc), but the K-means clustering used unlabeled data. I nitially tried 6 clusters because there are six sites in the summary data. However, this resulted in a couple clusters of just one site-year. I suspected that a couple of the sites are very similiar in overall parameters (design parameters and performance variables), so I reduced the number of clusters to four. This resulted in good clustering across the sites. It correctly identified site BC-2 in one cluster as this is the largest site by drainage area and annual flow. This also resulted in separation of BC-1 data into separate clusters from 2011-2013 and 2014-2021 which matches up with the reduction in drainage area for this site. 
 
+**4-Cluster Results:**
+
+![cluster table](./cluster_table.png)
 
 # Conclusions and Next Steps
 I completed data wrangling on two major aspects of my saturated buffer site data. From this clean data, I was able to explore the data and relationships between different variables. Finally, I created a linear regression model and ran principle components analysis (PCA) to address my research question. 
