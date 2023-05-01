@@ -65,23 +65,32 @@ Next, I pulled out a few specific variables to plot with boxplots and scatterplo
 
 So far, this data looks good. It matches the plots I created in Excel, and the scatterplots show the relationships I was expecting.
 
-# Models
-The jupyter notebook (in markdown format) for the models and data analysis can be found [here](./project-analysis-1.md)
-
+# Resllts and Discussion
+Full details of the analysis can be found in the jupyter notebook (in markdown format) [here](./project-analysis-1.md)
+I created linear regression models and performed principal components analysis and K-means clustering analysis on the site-year summary data.
 ## Linear Regression
+I created a multiple linear regression model to predict nitrate load removal from two variables: (1) the product of distribution pipe length and contributing drainage area, and (2) the annual precipitation. This resulted in a coefficient of determination of 0.49, which is not great but something I can work with. A prior study did this same analysis with only the product of pipe length and drainage area, so it was disappointing that adding in precipitation didn't result in a larger increase. 
+
+**Scatterplot of the total nitrate load removed vs. the product of pipe length and drainage area with multiple regression line:**
+![pipelength-drainage area vs load with regression](./pipelength_da_loadremoval_regression.png)
 
 ## PCA
+I ran PCA on the numerical site summary data excluding the nitrate load removed. I chose to include 4 principal components. This analysis resulted in principal component 1 and 2 explaining a majority of the variation in the data. I then used the PCA data in a multiple linear regression to predict nitrate load removed. However, this only resulted in a coefficient of determination of 0.48, which is marginally worse than with the raw data.
+
+**PCA components plot:**
+![PCA plot](./PCA_plot.png)
+
+**PCA Regression Plot:**
+![PCA regression plot](./PCA_regression_plot.png)
 
 ## Clustering
 
 
-# Results and Discussion
-I created linear regression models and performed principal components analysis and K-means clustering analysis on the site-year summary data. I created a multiple linear regression model to predict nitrate load removal from two variables: (1) the product of distribution pipe length and contributing drainage area, and (2) the annual precipitation. This resulted in a coefficient of determination of 0.49, which is not great but something I can work with. A prior study did this same analysis with only the product of pipe length and drainage area, so it was disappointing that adding in precipitation didn't result in a larger increase. 
 
 # Conclusions and Next Steps
 I completed data wrangling on two major aspects of my saturated buffer site data. From this clean data, I was able to explore the data and relationships between different variables. Finally, I created a linear regression model and ran principle components analysis (PCA) to address my research question. 
 
-My next steps include improving my data wrangling pipeline to ensure it is adaptible and reproducible for my other sites, using the data wrangling pipeline to process my additional sites, rebuilding these models with additional data, and building new models to further answer this research question and my other research questions.
+My next steps include improving my data wrangling pipeline to ensure it is adaptible and reproducible for my other sites, using the data wrangling pipeline to process my additional sites, rebuilding these models with additional data, and building new models to further answer this research question and my other research questions. The current models also need additional verification. Finally, I need to ensure that this project website is built properly and my files on GitHub are organized and up to date to ensure good, FAIR data practices. 
 
 _______________________________________________________
 
