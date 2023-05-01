@@ -45,7 +45,9 @@ Nitrate concentration data wrangling can be seen in [this jupyter notebook](./pr
 Nitrate load and summary data wrangling can be seen in [this jupyter notebook](./project-wrangling-3.md)
 
 # Data Exploration
-insert here
+
+![N removed boxplot](./N removed boxplot.png)
+
 
 # Models
 insert here
@@ -81,17 +83,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -145,18 +136,6 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
