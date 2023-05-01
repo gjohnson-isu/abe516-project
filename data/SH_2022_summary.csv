@@ -1,0 +1,2 @@
+flow_in_cumu,flow_bypass_cumu,flow_treated_cumu,Load_in_cumu_kg,Load_diverted_cumu_kg,Load_removed_cumu_kg,Year,in_buffer_removal_percent,eof_removal_percent,NO3-N_yield_in,NO3-N_yield_diverted,NO3-N_yield_removed
+2829.95872042511,2429.821700624645,669.0055278658572,357.9417643892863,74.41633863222775,63.295316838892646,2022,85.05567191595357,17.68313260311659,105.27698952626068,21.887158421243456,18.61626965849784

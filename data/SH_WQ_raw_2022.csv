@@ -1,0 +1,109 @@
+﻿Case Number,Scientist,Matrix,Project Name,Submission Date,Comments,Units,Sample Number,Site ID,Bottle No,NO3-N
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-001,SH210101,1,3.3
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-002,SH210102,2,0.4
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-003,SH210103,3,< 0.3
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-004,SH210104,4,6.1
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-005,SH210105,5,5.8
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-006,SH210106,6,1.9
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-007,SH2101BX,7,11.2
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-008,SH2101CK,8,13.6
+22x0132,Natalia Rogovska,Water,Shearer,4/12/2022,,mg/L,22x0132-009,BLANK,9,< 0.3
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-001,SH211601,1,2.2
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-002,SH211602,2,0.6
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-003,SH211603,3,< 0.3
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-004,SH211604,4,5.9
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-005,SH211605,5,6.6
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-006,SH211606,6,4
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-007,SH2116BX,7,18.9
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-008,SH2116CK,8,13.8
+22x0167,Natalia Rogovska,Water,Shearer,4/28/2022,,mg/L,22x0167-009,BLANK,9,< 0.3
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-001,SH212901,1,0.8
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-002,SH212902,2,< 0.3
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-003,SH212903,3,< 0.3
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-004,SH212904,4,5.4
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-005,SH212905,5,3.2
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-006,SH212906,6,3.6
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-007,SH2129BX,7,23.5
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-008,SH2129CK,8,15.6
+22x0211,Natalia Rogovska,Water,Shearer,5/13/2022,,mg/L,22x0211-009,BLANK,9,< 0.3
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-001,SH213701,1,1.1
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-002,SH213702,2,< 0.3
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-003,SH213703,3,< 0.3
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-004,SH213704,4,7.1
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-005,SH213705,5,4.9
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-006,SH213706,6,3.1
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-007,SH2137BX,7,22.2
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-008,SH2137CK,8,19
+22x0230,Natalia Rogovska,Water,Shearer,5/24/2022,,mg/L,22x0230-009,BLANK,9,< 0.3
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213701,31.5,2.00
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213702,33.5,0.02
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213703,35.5,<0.01
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213704,37.5,7.17
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213705,39.5,4.07
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH213706,41.5,2.85
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH2137BX,27.5,20.58
+SH_22_137,Gabe Johnson,Water,Shearer,5/23/2022,Run by ISU,mg/L,,SH2137CK,29.5,16.94
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215101,5.5,3.86
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215102,7.5,<0.01
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215103,9.5,0.10
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215104,11.5,12.80
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215105,13.5,11.04
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH215106,15.5,4.89
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH2151BX,1.5,26.03
+SH_22_151,Gabe Johnson,Water,Shearer,6/6/2022,,mg/L,,SH2151CK,3.5,20.22
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216501,79.5,7.91
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216502,81.5,<0.01
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216503,83.5,<0.01
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216504,85.5,<0.01
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216505,87.5,14.53
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH216506,89.5,4.64
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2165BX,75.5,28.85
+SH_22_165,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2165CK,77.5,23.19
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217201,25.5,8.75
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217202,27.5,<0.01
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217203,29.5,<0.01
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217204,31.5,13.42
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217205,33.5,9.98
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217206,35.5,7.59
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2172BX,21.5,27.85
+SH_22_172,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2172CK,23.5,22.31
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217901,181.5,13.09
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217902,183.5,1.21
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217903,185.5,0.50
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217904,187.5,21.24
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217905,189.5,16.85
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH217906,192,9.11
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2179BX,177.5,28.02
+SH_22_179,Gabe Johnson,Water,Shearer,6/29/2022,,mg/L,,SH2179CK,179.5,22.57
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218701,,11.8135
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218702,,1.349
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218703,,1.48785
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218704,,20.3515
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218705,,18.092
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH218706,,10.2485
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH2187BX,,26.457
+SH_22_187,Gabe Johnson,Water,Shearer,,,mg/L,,SH2187CK,,19.867
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219501,41.5,13.5515
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219502,43.5,2.05625
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219503,45.5,1.4829
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219504,47.5,20.954
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219505,49.5,15.802
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH219506,51.5,18.0595
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH2195BX,37.5,24.267
+SH_22_195,Gabe Johnson,Water,Shearer,7/18/2022,,mg/L,,SH2195CK,39.5,18.4815
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221001,5.5,12.4925
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221002,7.5,4.8561
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221003,9.5,4.5391
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221004,11.5,17.4925
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221005,13.5,14.751
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221006,15.5,10.7205
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH2210BX,1.5,21.0945
+SH_22_210,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH2210CK,3.5,12.822
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221701,23.5,19.6095
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221702,21.5,9.11365
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221703,25.5,5.74205
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221704,27.5,15.239
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221705,31.5,16.049
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH221706,29.5,9.5212
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH2217BX,17.5,19.478
+SH_22_217,Gabe Johnson,Water,Shearer,8/16/2022,,mg/L,,SH2217CK,19.5,8.5377
