@@ -87,7 +87,7 @@ I ran PCA on the numerical site summary data excluding the nitrate load removed.
 ![PCA regression plot](./PCA_regression_plot.png)
 
 ## Clustering
-I used K-means cluster analysis as an unsupervised method to look for groups in the data. I obviously am aware of certain groups in the data (sites, years, sites with similar design parameters, etc), but the K-means clustering used unlabeled data. 
+I used K-means cluster analysis as an unsupervised method to look for groups in the data. I obviously am aware of certain groups in the data (sites, years, sites with similar design parameters, etc), but the K-means clustering used unlabeled data. I nitially tried 6 clusters because there are six sites in the summary data. However, this resulted in a couple clusters of just one site-year. I suspected that a couple of the sites are very similiar in overall parameters (design parameters and performance variables), so I reduced the number of clusters to four. This resulted in good clustering across the sites. It correctly identified site BC-2 in one cluster as this is the largest site by drainage area and annual flow. This also resulted in separation of BC-1 data into separate clusters from 2011-2013 and 2014-2021 which matches up with the reduction in drainage area for this site. 
 
 
 # Conclusions and Next Steps
