@@ -87,7 +87,7 @@ I ran PCA on the numerical site summary data excluding the nitrate load removed.
 ![PCA regression plot](./PCA_regression_plot.png)
 
 ## Clustering
-
+I used K-means cluster analysis as an unsupervised method to look for groups in the data. I obviously am aware of certain groups in the data (sites, years, sites with similar design parameters, etc), but the K-means clustering used unlabeled data. 
 
 
 # Conclusions and Next Steps
